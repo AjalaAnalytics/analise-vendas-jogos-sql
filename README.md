@@ -88,9 +88,11 @@ projeto-sql-jogos/
 
 ---
 
-## 👨‍💻 Autor
+👨‍💻 Autor
 
-**Pedro Ajala**  
-Analista de Dados  
-📎 GitHub: https://github.com/AjalaAnalytics  
-🔗 LinkedIn: https://www.linkedin.com/in/pedroajala01/
+Pedro Ajala  
+Analista de Dados | Power BI | SQL | Python  
+
+🔗 GitHub: https://github.com/AjalaAnalytics  
+🔗 LinkedIn: https://www.linkedin.com/in/pedroajala01
+
